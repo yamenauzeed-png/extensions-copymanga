@@ -10,4 +10,12 @@
 https://raw.githubusercontent.com/cofedream/extensions-copymanga/refs/heads/main/index.min.json
 ```
 
-> ps: 不明白为啥仓库地址无效?
+# 问答
+
+> Q: 插件怎么做的，是原先上改的吗?
+> A：不是，重新写的，群友有需求，我也用所以就简单写写。所以有些功能可能没，可能会加也可能不会
+> 
+> Q: 仓库地址无效?
+> A: 不知道，挠头。多试几次。
+> 
+> 
