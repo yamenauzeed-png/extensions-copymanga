@@ -9,3 +9,5 @@
 ```
 https://raw.githubusercontent.com/cofedream/extensions-copymanga/refs/heads/main/index.min.json
 ```
+
+> ps: 不明白为啥仓库地址无效?
