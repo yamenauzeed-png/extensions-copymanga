@@ -4,11 +4,13 @@
 
 # 使用方式
 
-1. [Releases](https://github.com/cofedream/extensions-copymanga/releases)下载插件
-2. 浏览-右上角-插件仓库-添加 输入以下网址
-```
-https://raw.githubusercontent.com/cofedream/extensions-copymanga/refs/heads/main/index.min.json
-```
+1. 下载插件
+   - [Releases](https://github.com/cofedream/extensions-copymanga/releases)下载插件
+   - 浏览-右上角-插件仓库-添加 输入以下网址`https://raw.githubusercontent.com/cofedream/extensions-copymanga/refs/heads/main/index.min.json`
+2. 打开Mihon-更多-设置-高级
+   - 清除Cookie
+   - 清除Webview缓存
+   - 默认UA设置
 
 # 问答
 
@@ -18,4 +20,5 @@ https://raw.githubusercontent.com/cofedream/extensions-copymanga/refs/heads/main
 > Q: 仓库地址无效?
 > A: 不知道，挠头。多试几次。
 > 
-> 
+> Q: 404?
+> A: 漫画详情页，右上角刷新
