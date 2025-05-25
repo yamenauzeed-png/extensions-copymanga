@@ -1,0 +1,22 @@
+name: Sync Main to Repo Branch
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  sync-repo-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
+      - name: Push to repo branch
+        run: |
+          git push origin HEAD:repo --force
