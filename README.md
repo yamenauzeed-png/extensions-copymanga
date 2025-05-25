@@ -1,12 +1,12 @@
 # 说明
 
-毕竟是个码农，毕竟自己也要用。群友优先，其他随缘
+毕竟是个码农，毕竟自己也要用。群友优先，其他随缘。
 
 # 使用方式
 
 1. 下载插件
    - [Releases](https://github.com/cofedream/extensions-copymanga/releases)下载插件
-   - 浏览-右上角-插件仓库-添加 输入以下网址`https://raw.githubusercontent.com/cofedream/extensions-copymanga/refs/heads/main/index.min.json`
+   - 浏览-右上角-插件仓库-添加 输入以下网址`https://raw.githubusercontent.com/cofedream/extensions-copymanga/repo/index.min.json`
 2. 打开Mihon-更多-设置-高级
    - 清除Cookie
    - 清除Webview缓存
