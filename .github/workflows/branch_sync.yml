@@ -18,8 +18,5 @@ jobs:
           git config --global user.email "actions@github.com"
           
       - name: Push to repo branch
-        env:
-          GH_TOKEN: ${{ secrets.ACTION_PUSH_TOKEN }}
         run: |
-          # git push origin HEAD:repo --force
-          git push https://x-access-token:${GH_TOKEN}@github.com/cofedream/extensions-copymanga.git HEAD:repo --force
+          git push origin HEAD:repo --force
