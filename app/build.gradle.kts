@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "eu.kanade.tachiyomi.extension"
-        applicationIdSuffix = "all.dummyextension"
+        applicationIdSuffix = "ar.Rockscans"
         minSdk = 26
         targetSdk = 34
         versionCode = 20

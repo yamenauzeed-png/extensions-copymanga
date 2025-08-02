@@ -12,7 +12,7 @@
 
         <meta-data
             android:name="tachiyomi.extension.class"
-            android:value=".DummyExtension" />
+            android:value=".Rockscans" />
         <meta-data
             android:name="tachiyomi.extension.nsfw"
             android:value="false" />
