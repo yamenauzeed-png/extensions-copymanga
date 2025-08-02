@@ -1,18 +1,18 @@
 [
     {
-        "name": "Tachiyomi: CopyManga",
-        "pkg": "eu.kanade.tachiyomi.extension.zh.copymanga",
-        "apk": "tachiyomi-zh.copymanga-v1.4.15.apk",
-        "lang": "zh",
+        "name": "Tachiyomi:Rockscan",
+        "pkg": "eu.black.tachiyomi.extension.ar.rockscan",
+        "apk": "tachiyomi-ar.rockscan-v1.4.15.apk",
+        "lang": "ar",
         "code": 15,
         "version": "1.4.15",
         "nsfw": 0,
         "sources": [
             {
                 "id": "1926243573716484096",
-                "lang": "zh",
+                "lang": "ar",
                 "name": "拷贝漫画",
-                "baseUrl": "https://www.mangacopy.com"
+                "baseUrl": "https://rockscans.org"
             }
         ]
     }
