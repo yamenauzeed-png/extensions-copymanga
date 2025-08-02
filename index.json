@@ -1,17 +1,17 @@
 [
     {
-        "name": "Tachiyomi:Rockscan",
-        "pkg": "eu.black.tachiyomi.extension.ar.rockscan",
-        "apk": "tachiyomi-ar.rockscan-v1.4.15.apk",
+        "name": "Tachiyomi:Rockscans",
+        "pkg": "eu.black.tachiyomi.extension.ar.rockscans",
+        "apk": "tachiyomi-ar.rockscans-v1.0.0.apk",
         "lang": "ar",
-        "code": 15,
-        "version": "1.4.15",
+        "code": 0,
+        "version": "1.0.0",
         "nsfw": 0,
         "sources": [
             {
                 "id": "1926243573716484096",
                 "lang": "ar",
-                "name": "拷贝漫画",
+                "name": "Rockscans",
                 "baseUrl": "https://rockscans.org"
             }
         ]
